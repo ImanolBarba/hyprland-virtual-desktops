@@ -283,6 +283,8 @@ plugin {
 }
 ```
 
+
+
 ## Layouts
 
 Version 2.0 of this plugin introduced the concept of a _layout_, with the meaning of "a specific combination of workspaces on a (more or less) specific combination of monitors".
